@@ -1,0 +1,9 @@
+streamlit
+requests
+pdf2image
+Pillow
+PyPDF2
+reportlab
+google-generativeai
+IPython
+python-dotenv
