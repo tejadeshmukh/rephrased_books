@@ -1,5 +1,6 @@
-streamlit
+
 poppler-utils
+streamlit
 requests
 pdf2image
 Pillow
