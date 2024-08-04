@@ -1,7 +1,10 @@
 streamlit
+poppler-utils
 requests
 pdf2image
+Pillow
+PyPDF2
 reportlab
 google-generativeai
-IPython
-poppler-utils
+ipython
+python-dotenv
